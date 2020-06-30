@@ -1,0 +1,11 @@
+﻿  WindowsProject3.cpp
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(49,16): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(53,61): warning C4311: 'type cast': pointer truncation from 'HMENU' to 'UINT'
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(53,61): warning C4302: 'type cast': truncation from 'HMENU' to 'UINT'
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(59,62): warning C4311: 'type cast': pointer truncation from 'HMENU' to 'UINT'
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(59,62): warning C4302: 'type cast': truncation from 'HMENU' to 'UINT'
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(49,15): warning C4101: 'a': unreferenced local variable
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(149,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(135,8): warning C4101: 'szT': unreferenced local variable
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\WindowsProject3\WindowsProject3.cpp(162,14): warning C4101: 'ps': unreferenced local variable
+  WindowsProject3.vcxproj -> C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab4\x64\Debug\WindowsProject3.exe
